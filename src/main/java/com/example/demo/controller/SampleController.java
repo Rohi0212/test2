@@ -9,7 +9,7 @@ public class SampleController {
 		
 	@GetMapping("/get")
 	public String sample() {
-		return "保険屋さんからメールきたよ";
+		return "保険屋さんすこしきまずい";
 		
 	}
 
